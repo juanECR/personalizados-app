@@ -25,7 +25,7 @@ Personalizados App
 ```
 personalizados-app/
 
-├── apps/
+├── frontend/
 │   ├── client/
 │   └── admin/
 │
