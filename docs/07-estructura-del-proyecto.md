@@ -25,11 +25,17 @@ Personalizados App
 ```
 personalizados-app/
 
-├── frontend/
+├── apps/
+│   ├── client/
+│   └── admin/
+│
 ├── backend/
+│
 ├── docs/
-├── .gitignore
+│
 ├── README.md
+│
+└── .gitignore
 ```
 
 ---
